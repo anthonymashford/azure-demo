@@ -1,3 +1,2 @@
 # azure-demo
-Azure tempaltes to be used for demonstrations
-No the most elegant of code, sorry!
+Azure templates to be used for demonstrations. Not the most elegant of code, sorry!
